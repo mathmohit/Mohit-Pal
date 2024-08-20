@@ -1,0 +1,10 @@
+layout:
+  Column 1:
+    style: column
+    groups:
+      - Services
+      - Tools
+  Column 2:
+    style: column
+    groups:
+      - Media
