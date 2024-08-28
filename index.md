@@ -26,6 +26,8 @@ I am a postdoctoral fellow at the University of Bergen, Norway, under the mentor
 
 ## Publication (in reverse chronological order):
 
+- Lilya Budaghyan, Mohit Pal, [Arithmetization-oriented APN functions](https://eprint.iacr.org/2023/1081), _Des. Codes Cryptogr._  (2024). (To appear)
+
 - Sartaj Ul Hasan, Mohit Pal, [Dembowski-Ostrom polynomials and Dickson polynomials](https://doi.org/10.3934/amc.2022068), _Adv. Math. Commun._ 18(4) (2024) 1084-1099.
 
 - Sartaj Ul Hasan, Mohit Pal, Pantelimon Stănică, [The binary Gold function and its c-boomerang connectivity table](https://doi.org/10.1007/s12095-022-00573-8), _Cryptogr. Commun._ 14(6) (2022) 1257--1280.
@@ -50,6 +52,7 @@ I am a postdoctoral fellow at the University of Bergen, Norway, under the mentor
 
 ## Participation in Schools/Workshops/Conferences:
 
+- [SEquences and Their Applications (SETA-2024)](https://seta-2024.github.io/index.html), Colchester, United Kingdom 01-05 July 2024.
 - [The 8th International Workshop on Boolean Functions and their Applications](https://boolean.w.uib.no/bfa-2023/), Voss, Norway 03-08 September 2023.
 - [International Conference on Finite Fields and Their Applications](https://org.uib.no/selmer/fq15/), Paris, France 19-23 June 2023.
 - [Symmetric Techniques for Advanced Protocols](https://who.paris.inria.fr/Leo.Perrin/rescale/stap-23.html), Lyon, France 22-23 April 2023.
