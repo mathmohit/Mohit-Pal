@@ -1,4 +1,4 @@
-<img src="mohit.jpg" width="200" height="200">
+<img src="mohit.jpg" width="200" height="300">
 
 
 ## About Me:
