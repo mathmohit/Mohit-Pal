@@ -1,17 +1,4 @@
 layout: default
 title: Mohit Pal
 description : Welcome to my homepage!
-
-layout:
-  Column 1:
-    style: column
-    groups:
-      - Services
-      - Tools
-  Column 2:
-    style: column
-    groups:
-      - Media
-
-
 Copyright: © Mohit Pal 2024
