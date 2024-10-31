@@ -1,31 +1,3 @@
-Services:
-  header: false
-  - Service 1:
-      # Service 1 details
-  - Service 2:
-      # Service 2 details
-  # ... other services
-
-Tools:
-  header: false
-  - Tool 1:
-      # Tool 1 details
-  - Tool 2:
-      # Tool 2 details
-  # ... other tools
-
-Media:
-  header: false
-  - Media 1:
-      # Media 1 details
-  - Media 2:
-      # Media 2 details
-  # ... other media
-
-
-
-
-
 <img src="mohit.jpg" width="300" height="500"> 
 
 ## About Me:
