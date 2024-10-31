@@ -1,5 +1,26 @@
-| - | - |
-| **Text**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum | **Text** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum |
+Services:
+  header: false
+  - Service 1:
+      # Service 1 details
+  - Service 2:
+      # Service 2 details
+  # ... other services
+
+Tools:
+  header: false
+  - Tool 1:
+      # Tool 1 details
+  - Tool 2:
+      # Tool 2 details
+  # ... other tools
+
+Media:
+  header: false
+  - Media 1:
+      # Media 1 details
+  - Media 2:
+      # Media 2 details
+  # ... other media
 
 
 
