@@ -1,4 +1,4 @@
-<img src="mohit.jpg" width="200" height="300">
+
 
 <table border="0">
  <tr>
@@ -6,7 +6,7 @@
     <td><b style="font-size:30px">Title 2</b></td>
  </tr>
  <tr>
-    <td>Lorem ipsum ...</td>
+    <td><img src="mohit.jpg" width="200" height="300"></td>
     <td>Lorem ipsum ...</td>
  </tr>
 </table>
