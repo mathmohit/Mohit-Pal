@@ -1,7 +1,7 @@
 <table border="0">
  <tr>
      <img src="mohit.jpg" width="300" height="400"> 
-    <td>Lorem ipsum ...</td>
+    Lorem ipsum ...
  </tr>
 </table>
 
