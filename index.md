@@ -1,8 +1,8 @@
-<img src="mohit.jpg" width="300" height="400"> 
+| <img src="mohit.jpg" width="300" height="400"> |
 
 ## About Me:
 I am a postdoctoral fellow at the University of Bergen, Norway, under the mentorship of [Prof. Lilya Budaghyan](https://www.uib.no/en/persons/Lilya.Budaghyan). I hold a Ph.D. in Mathematics from the Indian Institute of Technology Jammu, where I completed my dissertation under the supervision of [Dr. Sartaj Ul Hasan](https://sites.google.com/site/sartajulhasan/). Prior to my doctoral studies, I served as a project fellow at the Harish-Chandra Research Institute, Allahabad, working with [Prof. Kalyan Chakraborty](http://www.hri.res.in/~kalyan/) and [Prof. R. Thangadurai](http://www.hri.res.in/~thanga/). I obtained my M.Sc. in Mathematics from the Indian Institute of Technology Kharagpur, where I conducted my master’s thesis research under the guidance of [Prof. Ratna Dutta](http://www.facweb.iitkgp.ac.in/~ratna/) and [Dr. Ramakrishna Nanduri](https://sites.google.com/site/nandurirk/home?authuser=0). My academic journey began with a B.Sc. in Mathematics from the University of Allahabad. 
- 
+ |
 
 
 
