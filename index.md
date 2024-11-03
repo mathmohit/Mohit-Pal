@@ -80,13 +80,13 @@ I am a postdoctoral fellow at the University of Bergen, Norway, under the mentor
 ## Coauthors (author naming convention: [culture statement](http://www.ams.org/profession/leaders/CultureStatement04.pdf)):
 
 
-- [Daniele Bartoli](https://www.danielebartoli.org/)
-- [Lilya Budaghyan](https://www.uib.no/en/persons/Lilya.Budaghyan)
-- [Neranga Fernando](https://www.math.cmu.edu/~fneranga/)
-- [Sartaj Ul Hasan](https://sites.google.com/site/sartajulhasan/)
-- [Constanza Susana Riera](https://www.hvl.no/en/employee/?user=Constanza.Susana.Riera)
-- [Pantelimon Stănică](https://faculty.nps.edu/pstanica/)
-- Tommaso Toccotelli
+- [Daniele Bartoli](https://www.danielebartoli.org/), University of Perugia, Italy.
+- [Lilya Budaghyan](https://www.uib.no/en/persons/Lilya.Budaghyan), University of Bergen, Norway.
+- [Neranga Fernando](https://www.math.cmu.edu/~fneranga/), College of the Holy Cross, USA.
+- [Sartaj Ul Hasan](https://sites.google.com/site/sartajulhasan/), IIT JAMMU, India.
+- [Constanza Susana Riera](https://www.hvl.no/en/employee/?user=Constanza.Susana.Riera), Western Norway University of Applied Sciences, Norway.
+- [Pantelimon Stănică](https://faculty.nps.edu/pstanica/), Naval Postgraduate School, USA.
+- Tommaso Toccotelli, University of Perugia, Italy.
 
   
   ## Erdős Number:
