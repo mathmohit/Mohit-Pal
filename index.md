@@ -44,6 +44,10 @@ I am a postdoctoral fellow at the University of Bergen, Norway, under the mentor
 
 ## Preprints:
 
+- Mohit Pal, [Some new classes of (almost) perfect c-nonlinear permutations](https://arxiv.org/abs/2208.01004), ArXiv.
+
+- Mohit Pal, Pantelimon Stanica, [A connection between the boomerang uniformity and the extended differential in odd characteristic and applications](https://arxiv.org/abs/2312.01434), ArXiv.
+
 - Daniele Bartoli, Mohit Pal, Pantelimon Stanica, Tommaso Toccotelli, [A proof of a conjecture on trivariate permutations](https://arxiv.org/abs/2410.23097), ArXiv.
 
 - Daniele Bartoli, Mohit Pal, Pantelimon Stanica, [A proof of a conjecture on permutation trinomials](https://arxiv.org/abs/2410.22692), ArXiv.
