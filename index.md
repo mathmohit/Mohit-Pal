@@ -42,6 +42,10 @@ I am a postdoctoral fellow at the University of Bergen, Norway, under the mentor
 - Neranga Fernando, Sartaj Ul Hasan, Mohit Pal, [Dembowski-Ostrom polynomials and reversed Dickson polynomials](https://doi.org/10.1016/j.dam.2021.03.012), _Discret. Appl. Math._ 298 (2021), 66--79.
 
 
+## Publication (in reverse chronological order):
+
+- Daniele Bartoli, Mohit Pal, Pantelimon Stanica, Tommaso Toccotelli, [A proof of a conjecture on trivariate permutations](https://arxiv.org/abs/2410.23097), ArXiv.
+
 ## Reviewer for Journals
 
   - [Applicable Algebra in Engineering, Communication and Computing](https://www.springer.com/journal/200)
