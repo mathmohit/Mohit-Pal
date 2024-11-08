@@ -13,17 +13,17 @@ I am a postdoctoral fellow at the University of Bergen, Norway, under the mentor
 
 ## Work Experience:
 
-- Jun'22-till date, Postdoctoral Fellow, [University of Bergen](https://www.uib.no/en).
-- Apr'22-May'22, Visiting Student, [Indian Statistical Institute Delhi](https://www.isid.ac.in/).
-- Dec'21-Mar'22, Project Fellow, [Indian Institute of Technology Jammu](https://www.iitjammu.ac.in/).
-- 2017-2018, Project Fellow, [Harish-Chandra Research Institute Allahabad](http://www.hri.res.in/).
+- Jun'22-till date, Postdoctoral Fellow, [University of Bergen, Norway](https://www.uib.no/en).
+- Apr'22-May'22, Visiting Student, [Indian Statistical Institute Delhi, India](https://www.isid.ac.in/).
+- Dec'21-Mar'22, Project Fellow, [Indian Institute of Technology Jammu, India](https://www.iitjammu.ac.in/).
+- 2017-2018, Project Fellow, [Harish-Chandra Research Institute Allahabad, India](http://www.hri.res.in/).
 
 ## Educational Background:
 
-- July'18-Oct'21, Ph.D. in Mathematics, [Indian Institute of Technology Jammu](https://www.iitjammu.ac.in/).
-- July'18-May'19, Visiting Student, [Indian Institute of Technology Delhi](https://home.iitd.ac.in/).
-- 2014-2016, Master of Science, [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/).
-- 2011-2014, Bachelor of Science, [University of Allahabad](https://www.allduniv.ac.in/).
+- July'18-Oct'21, Ph.D. in Mathematics, [Indian Institute of Technology Jammu, India](https://www.iitjammu.ac.in/).
+- July'18-May'19, Visiting Student, [Indian Institute of Technology Delhi, India](https://home.iitd.ac.in/).
+- 2014-2016, Master of Science, [Indian Institute of Technology Kharagpur, India](http://www.iitkgp.ac.in/).
+- 2011-2014, Bachelor of Science, [University of Allahabad, India](https://www.allduniv.ac.in/).
 
 ## Publication (in reverse chronological order):
 
