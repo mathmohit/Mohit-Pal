@@ -27,6 +27,8 @@ I am a postdoctoral fellow at the University of Bergen, Norway, under the mentor
 
 ## Publication (in reverse chronological order):
 
+- Mohit Pal, Pantelimon Stanica, [A connection between the boomerang uniformity and the extended differential in odd characteristic and applications](https://doi.org/10.3934/amc.2024059), _Adv. Math. Commun._  (2025).
+
 - Lilya Budaghyan, Mohit Pal, [Arithmetization-oriented APN Permutations](https://doi.org/10.1007/s10623-024-01487-7), _Des. Codes Cryptogr._  (2024).
 
 - Sartaj Ul Hasan, Mohit Pal, [Dembowski-Ostrom polynomials and Dickson polynomials](https://doi.org/10.3934/amc.2022068), _Adv. Math. Commun._ 18(4) (2024) 1084-1099.
@@ -45,8 +47,6 @@ I am a postdoctoral fellow at the University of Bergen, Norway, under the mentor
 ## Preprints:
 
 - Mohit Pal, [Some new classes of (almost) perfect c-nonlinear permutations](https://arxiv.org/abs/2208.01004), ArXiv.
-
-- Mohit Pal, Pantelimon Stanica, [A connection between the boomerang uniformity and the extended differential in odd characteristic and applications](https://arxiv.org/abs/2312.01434), ArXiv.
 
 - Daniele Bartoli, Mohit Pal, Pantelimon Stanica, Tommaso Toccotelli, [A proof of a conjecture on trivariate permutations](https://arxiv.org/abs/2410.23097), ArXiv.
 
